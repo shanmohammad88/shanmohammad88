@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanmohammad88
 - 👀 I’m interested in coding and hacking
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on hacking projet
+- 💞️ I’m looking to collaborate on hacking and Web devlopment projet
 - 📫 How to reach me shanmohmmad88@gmail.com
 
 <!---
